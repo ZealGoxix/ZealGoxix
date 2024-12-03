@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="assets/messagif.gif" alt="Typewriter Effect" />
-  <img width="40%" src="assets/flower.jpeg" alt="profile" />
+  <img src="assets/ezgif.com-crop.gif" alt="Typewriter Effect" />
+  <img width="30%" src="assets/flower.jpeg" alt="profile" />
   <p >🌟 CS @ University of New Orleans, happy to graduate in May 2025. Pursuring learning only opens up new doors to possiblites.</p>
   <br>
 </div>

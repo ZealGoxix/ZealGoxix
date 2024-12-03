@@ -1,6 +1,5 @@
 <div align="center">
-  ![typewriter](https://github.com/ZealGoxix/ZealGoxix/blob/main/assets/ezgif.com-crop.gif?raw=true)
-
+  <img src="https://raw.githubusercontent.com/ZealGoxix/ZealGoxix/refs/heads/main/assets/ezgif.com-crop.gif" alt="Typewriter Effect" />
   <img width="30%" src="assets/flower.jpeg" alt="profile" />
   <p >🌟 CS @ University of New Orleans, happy to graduate in May 2025. Pursuring learning only opens up new doors to possiblites.</p>
   <br>

@@ -1,14 +1,13 @@
 <div align="center">
-  <img src="assets/typewriter.gif" alt="Typewriter Effect" />
-  <img src="assets/typewriter.gif" alt="profile" />
-  <p >CS @ University of New Orleans, happy to graduate in May 2025. Pursuring learning only opens up new doors to possiblites.</p>
+  <img src="assets/messagif.gif" alt="Typewriter Effect" />
+  <img width="40%" src="assets/flower.jpeg" alt="profile" />
+  <p >🌟 CS @ University of New Orleans, happy to graduate in May 2025. Pursuring learning only opens up new doors to possiblites.</p>
   <br>
 </div>
 
 
->*“If you can't explain it simply, you don't understand it well enough.” - Albert Einstein*
+>*🎨“If you can't explain it simply, you don't understand it well enough.” - Albert Einstein*
 
-<hr>
 <br>
 
 <!-- Skills -->

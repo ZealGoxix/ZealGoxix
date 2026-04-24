@@ -8,7 +8,7 @@
 
 <br>
 
-[![CLICK ME](https://img.shields.io/badge/%E2%9A%A0%EF%B8%8F%20%20%20%20%20%20CLICK%20ME%20%20%20%20%20%20%E2%9A%A0%EF%B8%8F-DO%20IT-FF3366?style=for-the-badge&labelColor=020b14&color=FF3366)](https://zealgoxix.github.io/Paul-Blog-Page/)
+[![CLICK ME](https://img.shields.io/badge/%E2%9A%A0%EF%B8%8F%20%20%20%20%20%20CLICK%20ME%20%20%20%20%20%20%E2%9A%A0%EF%B8%8F-DO%20IT-FF3366?style=for-the-badge&labelColor=020b14&color=FF3366)](https://zealgoxix.github.io/Paul-Blog-Page/posts/you-just-clicked-a-link.html)
 
 <!-- Replace the URL above with your actual GitHub Pages or Netlify URL -->
 
